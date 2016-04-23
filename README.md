@@ -25,7 +25,7 @@ gaussianKernel.m - Gaussian kernel for SVM
 
 dataset3Params.m - Parameters to use for Dataset 3
 
-ex6 spam.m - Octave/MATLAB script for the second half of the exercise
+ex6 spam.m - main2
 
 spamTrain.mat - Spam training set
 
